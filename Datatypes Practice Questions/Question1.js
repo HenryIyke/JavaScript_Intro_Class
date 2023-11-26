@@ -1,0 +1,1 @@
+const challenge = "Pluralcode February Cohort JavaScript Classes" //creating a variable challenge

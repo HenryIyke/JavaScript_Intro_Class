@@ -8,3 +8,7 @@ In JavaScript, ```var```, ```let``` and ```const``` are used to declare variable
 
 Javascript Strings: strings are a sequence of characters created with single or double quotes, concatenated with a ```+``` and has methods of manipulation such as ```length```
 Numbers: Numbers can be integers or floating point values and it supports arithmetic operations (+,-,*,/) and more complex mathematical operations. it has special characters like ```NaN``` (Not a Number) and ```infinity```.
+
+
+JAVASCRIPT ASSIGNMENTS
+1. Datatypes Practice questions
