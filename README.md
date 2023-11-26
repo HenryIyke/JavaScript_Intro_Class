@@ -12,3 +12,4 @@ Numbers: Numbers can be integers or floating point values and it supports arithm
 
 JAVASCRIPT ASSIGNMENTS
 1. Datatypes Practice questions
+2. Conditional Practice questions
