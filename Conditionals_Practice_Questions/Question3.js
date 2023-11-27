@@ -5,7 +5,7 @@ if (a > b){
     alert(a + " is greater than " + b);
 }
     else if (a < b) {
-        alert(b + " is greater than " + a)
+        alert(a + " is less than " + b)
     }
     else if (a == b) {
         alert(a + " is equal to " + b);
